@@ -44,4 +44,12 @@ A simple java etch a sketch program that uses keyboard arrow keys input to gener
 
 [Project Repo](https://github.com/CSJoyce/EtchASketch)
 
+### Cars Demo
+
+A java demonstration of classes, including speed and color variables, and instantiation of unique classes.
+
+![cars](https://github.com/CSJoyce/CarsDemo/blob/master/Screen%20Shot%202018-04-13%20at%201.55.08%20PM.png)
+
+[Project Repo](https://github.com/CSJoyce/CarsDemo)
+
 
