@@ -25,3 +25,13 @@ A python project in which the user selects a shape to calculate the surface area
 A java calculator that has basic functions, including divide, multiply, subtract, and add.
 
 ![calc](https://github.com/CSJoyce/Calculator/blob/master/Screen%20Shot%202018-04-13%20at%201.47.20%20PM.png)
+
+[Project Repo](https://github.com/CSJoyce/Calculator)
+
+### Temperature Converter
+
+A java project that uses mouse input to convert a Farenheit temperature reading into the Celsius equivalent, and vice versa.
+
+![temp](https://github.com/CSJoyce/TempConverter/blob/master/Screen%20Shot%202018-04-13%20at%201.50.04%20PM.png)
+
+[Project Repo](https://github.com/CSJoyce/TempConverter)
