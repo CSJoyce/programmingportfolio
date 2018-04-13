@@ -22,4 +22,6 @@ A python project in which the user selects a shape to calculate the surface area
 
 ### Calculator
 
-A 
+A java calculator that has basic functions, including divide, multiply, subtract, and add.
+
+![calc](https://github.com/CSJoyce/Calculator/blob/master/Screen%20Shot%202018-04-13%20at%201.47.20%20PM.png)
