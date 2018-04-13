@@ -16,4 +16,4 @@ A mouse controlled Python game in which the player attempts to find hidden chest
 
 A python project in which the user selects a shape to calculate the surface area of, enters the dimensions of that shape, and the program will give the user the surface area of the shape based on the given dimensions.
 
-![scap](ttps://github.com/CSJoyce/ShapesCalculator/blob/master/Screen%20Shot%202018-04-13%20at%201.41.43%20PM.png)
+![scap](https://github.com/CSJoyce/ShapesCalculator/blob/master/Screen%20Shot%202018-04-13%20at%201.41.43%20PM.png)
