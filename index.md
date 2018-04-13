@@ -35,3 +35,13 @@ A java project that uses mouse input to convert a Farenheit temperature reading 
 ![temp](https://github.com/CSJoyce/TempConverter/blob/master/Screen%20Shot%202018-04-13%20at%201.50.04%20PM.png)
 
 [Project Repo](https://github.com/CSJoyce/TempConverter)
+
+### Etch A Sketch
+
+A simple java etch a sketch program that uses keyboard arrow keys input to generate lines as inputted by the user.
+
+![etch](https://github.com/CSJoyce/EtchASketch/blob/master/etch.png)
+
+[Project Repo](https://github.com/CSJoyce/EtchASketch)
+
+
