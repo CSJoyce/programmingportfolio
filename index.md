@@ -40,7 +40,7 @@ A java project that uses mouse input to convert a Farenheit temperature reading 
 
 A simple java etch a sketch program that uses keyboard arrow keys input to generate lines as inputted by the user.
 
-![etch](https://github.com/CSJoyce/EtchASketch/blob/master/etch.png)
+![etch](https://github.com/CSJoyce/EtchASketch/blob/master/etch.jpg?raw=true)
 
 [Project Repo](https://github.com/CSJoyce/EtchASketch)
 
@@ -48,7 +48,7 @@ A simple java etch a sketch program that uses keyboard arrow keys input to gener
 
 A java demonstration of classes, including speed and color variables, and instantiation of unique classes.
 
-![cars](https://github.com/CSJoyce/CarsDemo/blob/master/cars.png?raw=true)
+![cars](https://github.com/CSJoyce/CarsDemo/blob/master/cars.jpg?raw=true)
 
 [Project Repo](https://github.com/CSJoyce/CarsDemo)
 
