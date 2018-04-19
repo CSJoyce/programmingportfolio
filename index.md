@@ -40,7 +40,7 @@ A java project that uses mouse input to convert a Farenheit temperature reading 
 
 A simple java etch a sketch program that uses keyboard arrow keys input to generate lines as inputted by the user.
 
-![etch](https://github.com/CSJoyce/EtchASketch/blob/master/etch.jpg?raw=true)
+![etchasketch](https://github.com/CSJoyce/EtchASketch/blob/master/etch.jpg?raw=true)
 
 [Project Repo](https://github.com/CSJoyce/EtchASketch)
 
