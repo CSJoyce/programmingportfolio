@@ -32,7 +32,7 @@ A java calculator that has basic functions, including divide, multiply, subtract
 
 A java project that uses mouse input to convert a Farenheit temperature reading into the Celsius equivalent, and vice versa.
 
-![temp](https://github.com/CSJoyce/TempConverter/blob/master/Screen%20Shot%202018-04-13%20at%201.50.04%20PM.png)
+![temp](https://github.com/CSJoyce/TempConverter/blob/master/tempconv.jpg?raw=true)
 
 [Project Repo](https://github.com/CSJoyce/TempConverter)
 
