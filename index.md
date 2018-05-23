@@ -56,7 +56,7 @@ A java demonstration of classes, including speed and color variables, and instan
 
 A continuation of the "Lights Game" with implementation of new in-game objects, mouse interactivity, hover/fading effects, object collision, and user input.
 
-![game1](https://github.com/CSJoyce/Lights-Game/blob/master/sc%201.jpg?raw=true)
+![game1](https://github.com/CSJoyce/Lights-Game/blob/master/sc%201.jpg)
 
 This shows the initial game layout, with two enemies spawned in to chase the player.
 
