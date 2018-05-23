@@ -76,6 +76,8 @@ This shows the text that is shown when the chest is found, telling the player th
 
 This shows the result of reaching "level" 5, in which there are 5 enemies hunting down the player whilst they seek out the chest.
 
+[Project Repo](https://github.com/CSJoyce/Lights-Game)
+
 
 
 
