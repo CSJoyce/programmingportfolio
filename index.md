@@ -56,23 +56,23 @@ A java demonstration of classes, including speed and color variables, and instan
 
 A continuation of the "Lights Game" with implementation of new in-game objects, mouse interactivity, hover/fading effects, object collision, and user input.
 
-![game1](https://github.com/CSJoyce/Lights-Game/blob/master/sc%201.jpg)
+![game1](https://github.com/CSJoyce/Lights-Game/blob/master/sc%201.jpg?raw=true)
 
 This shows the initial game layout, with two enemies spawned in to chase the player.
 
-![game2](https://github.com/CSJoyce/Lights-Game/blob/master/sc%202.jpg)
+![game2](https://github.com/CSJoyce/Lights-Game/blob/master/sc%202.jpg?raw=true)
 
 This shows the screen that is shown when any of the enemies make contact with the player, and the game stops.
 
-![game3](https://github.com/CSJoyce/Lights-Game/blob/master/sc%203.jpg)
+![game3](https://github.com/CSJoyce/Lights-Game/blob/master/sc%203.jpg?raw=true)
 
 If you look closely next to the player's circle, you will see a faint outline of the chest. This shows the mouse hover interactivity in action, with the chest becoming more apparent on the screen as the player approaches it's location.
 
-![game4](https://github.com/CSJoyce/Lights-Game/blob/master/sc%204.jpg)
+![game4](https://github.com/CSJoyce/Lights-Game/blob/master/sc%204.jpg?raw=true)
 
 This shows the text that is shown when the chest is found, telling the player that the chest will now spawn in a new random location on the screen.  This also triggers the creation of a new enemy, faster than the previous ones.
 
-![game5](https://github.com/CSJoyce/Lights-Game/blob/master/%20sc%205.jpg)
+![game5](https://github.com/CSJoyce/Lights-Game/blob/master/%20sc%205.jpg?raw=true)
 
 This shows the result of reaching "level" 5, in which there are 5 enemies hunting down the player whilst they seek out the chest.
 
