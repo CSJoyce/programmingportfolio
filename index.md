@@ -3,9 +3,9 @@ Chris Joyce
 
 cjoyce764@gmail.com
 
-### Python Group Project
+### Lights Game
 
-A mouse controlled Python game in which the player attempts to find hidden chests in a black room while simultaneously being hunted down by monsters.  As time progresses, new monsters spawn in, and each time a chest is found a new one is spawned in a random location on the screen.  Score will be the time that they player survives.
+A mouse controlled Python game in which the player attempts to find hidden chests in a black room while simultaneously being hunted down by monsters.  As time progresses, new monsters spawn in, and each time a chest is found a new chest and harder enemy is spawned in a random location on the screen.  Score will be the time that they player survives.
 
 ![sccap1](https://github.com/CSJoyce/Lights-Game/blob/master/game.jpg?raw=true)
 
@@ -51,5 +51,26 @@ A java demonstration of classes, including speed and color variables, and instan
 ![cars](https://github.com/CSJoyce/CarsDemo/blob/master/cars.jpg?raw=true)
 
 [Project Repo](https://github.com/CSJoyce/CarsDemo)
+
+### 10 Hour Project
+
+A continuation of the "Lights Game" with implementation of new in-game objects, mouse interactivity, hover/fading effects, object collision, and user input.
+
+![game1](https://github.com/CSJoyce/Lights-Game/blob/master/sc%201.jpg)
+This shows the initial game layout, with two enemies spawned in to chase the player.
+
+![game2](https://github.com/CSJoyce/Lights-Game/blob/master/sc%202.jpg)
+This shows the screen that is shown when any of the enemies make contact with the player, and the game stops.
+
+![game3](https://github.com/CSJoyce/Lights-Game/blob/master/sc%203.jpg)
+This shows the mouse hover interactivity in action, with the chest becoming more apparent on the screen as the player approaches it's location.
+
+![game4](https://github.com/CSJoyce/Lights-Game/blob/master/sc%204.jpg)
+This shows the text that is shown when the chest is found, telling the player that the chest will now spawn in a new random location on the screen.  This also triggers the creation of a new enemy, faster than the previous ones.
+
+![game5](https://github.com/CSJoyce/Lights-Game/blob/master/%20sc%205.jpg)
+This shows the result of reaching "level" 5, in which there are 5 enemies hunting down the player whilst they seek out the chest.
+
+
 
 
